@@ -1,0 +1,59 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: sans-serif;
+    font-size: 133%;
+    text-decoration: none;
+    text-align: justify;
+}
+
+h1{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-top: 37.5px;
+}
+
+#logowiki{
+    width: 67.5px;
+}
+
+#containeraaa{
+    display: flex;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+main{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    margin: 20px;
+}
+section{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,3,63,1) 11%, rgba(41,4,73,1) 15%, rgba(62,6,92,1) 23%, rgba(93,9,121,1) 35%, rgba(80,37,140,1) 44%, rgba(39,128,200,1) 73%, rgba(0,212,255,1) 100%);
+    display: flex;
+    width: 500px;
+    height: 700px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#kogosbanner__div{
+    font-size: 16px;
+    color: white;
+}
+article{
+    margin-right: 100px;
+}
+a{
+    color: rgb(96, 108, 209);
+    font-weight: bold;
+}
+#espaco{
+    font-style: italic;
+    margin-left: 50px;
+}
